@@ -15,7 +15,7 @@ A normal install should work fine, with [vim-plug][vp] for example:
 
 ## Help
 
-Help can be found with `help mercury-overview`, `help mercury-install`, `help mercury-ftplugin`, `help mercury-commands`, and `help mercury-syntax`. 
+Help can be found with `:help mercury-overview`, `:help mercury-install`, `:help mercury-ftplugin`, `:help mercury-commands`, and `:help mercury-syntax`. 
 
 The help file is located in `doc/mercury.txt`, containing the full installation instructions and command list.
 
